@@ -7,6 +7,6 @@
     <h1>My Videos</h1>
 
     <h2>Video 1</h2>
-    <video src="https://github.com/IRIV2019/Claire_UK/blob/main/Iceland.mp4" width="160" height="90" controls></video>
+    <video src="https://github.com/IRIV2019/Claire_UK/blob/main/Iceland.mp4" width="640" height="360" controls></video>
 </body>
 </html>
