@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Videos</title>
+</head>
+<body>
+    <h1>My Videos</h1>
+
+    <h2>Video 1</h2>
+    <video src="Iceland.mp4" width="160" height="90" controls></video>
+</body>
+</html>
